@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Hi! Chima Nwankwo Idika. Modified the main branch")
+print("Hi! Chima Nwankwo Idika. Modified the main and feature-2 branch combined")
